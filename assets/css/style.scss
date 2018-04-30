@@ -3,8 +3,9 @@
 
 @import "{{ site.theme }}";
 body{
+    padding-top: 4200px;
     font-size: large;
-    background-image: url('https://raw.githubusercontent.com/melonnmediatech/GUACAMOLE/master/invitacion-fondo.jpg');
+    background-image: url('https://github.com/melonnmediatech/GUACAMOLE/blob/master/invitacion-fondo00.jpg?raw=true');
     background-size: cover;
     height: 4200px;
 }
