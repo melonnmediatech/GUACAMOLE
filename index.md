@@ -15,6 +15,3 @@
     <span class="location">RUE ROMAIN TABARRE (NEXT TO THE AMERICAN EMBASSY)</span>
 </div>
 <mark><a href="https://api.whatsapp.com/send?phone=+5215575678721&text=Hi, I contacted you Through your cinco de mayo website." class="social-icon whatsapp">WHATSAPP US THROUGH THIS LINK! </a></mark>
-
-</body>
-</html>
