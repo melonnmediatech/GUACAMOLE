@@ -2,6 +2,8 @@
 <!-- AddEvent script -->
 <script type="text/javascript" src="https://addevent.com/libs/atc/1.6.1/atc.min.js" async defer></script>
 
+<!-- Go to www.addthis.com/dashboard to customize your tools -->
++<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5ae0124d0ca2f50c"></script>
 
 
 <!-- Button code -->
