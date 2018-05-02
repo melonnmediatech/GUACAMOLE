@@ -5,22 +5,11 @@
 <script type="text/javascript" src="https://addevent.com/libs/atc/1.6.1/atc.min.js" async defer></script>
 
 <style>  body{
-  
-padding-top: 0px;   
     font-size: large;
      min-heigt:5800px;
      background-size: 100%;
-    
-   
-       
-   background-image: url('invitacion_github.jpg');
+     background-image: url('invitacion_github.jpg');
      
-   
-    
-    
-    
-    
-            
  }
 header {
   display: none;
