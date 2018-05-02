@@ -8,7 +8,7 @@
    
 padding-top: 4200px;   
     font-size: large;
-    background-color: red;
+    background-color: black;
    background-image: url('invitacion_fondo_github.jpg');
     background-size: 100%;
     min-heigt:4500px;
@@ -24,7 +24,16 @@ mark {
     background-color: black;
     color: white;
     
-}</style>
+}
+
+
+a {
+
+color:white;
+ background-color: black;
+
+}
+</style>
 </head>
 <body>
 
