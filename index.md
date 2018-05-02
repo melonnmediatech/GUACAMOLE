@@ -4,9 +4,10 @@
 <!-- AddEvent script -->
 <script type="text/javascript" src="https://addevent.com/libs/atc/1.6.1/atc.min.js" async defer></script>
 
-<style>  body{
+<style> 
+    body{
     font-size: large;
-     min-heigt:5800px;
+     min-heigt: 5800px;
      background-size: 100%;
      background-image: url('invitacion_github.jpg');
      
