@@ -6,6 +6,7 @@
 
 <style> 
     body{
+    background-color: 	#DCDCDC;
     padding-top: 1px;
     font-size: large;
     
