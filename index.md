@@ -6,7 +6,7 @@
 
 <style> body{
        
-    background-image: url('invitacion_fondo_github.jpg');
+    background-image: url('invitacion_github.jpg');
     background-size: 100%;
     min-heigt:5200px;
             
