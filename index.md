@@ -6,6 +6,7 @@
 
 <style> 
     body{
+    padding-top: 1px;
     font-size: large;
      min-heigt: 5800px;
      background-size: 100%;
