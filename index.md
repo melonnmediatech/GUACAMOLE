@@ -10,8 +10,7 @@
     font-size: large;
     
   background-size: 100%;
-  background-image: url('invitacion_github.jpg');
-     
+       
  }
 header {
   display: none;
