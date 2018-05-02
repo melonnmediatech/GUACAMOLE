@@ -42,7 +42,7 @@ color:white;
     Add to Calendar
     <span class="start">05/05/2018 11:00 AM</span>
     <span class="end">05/05/2018 05:00 PM</span>
-    <span class="timezone">America/haiti</span>
+    <span class="timezone">America/Port-au-Prince</span>
     <span class="title">"Champagne Brunch" @ Guacamole BAR & GRILL </span>
     <span class="description">Tasty Champagne Brunch featuring real Mexican food to commemorate "La batalla de puebla". Try authentic Mexican flavors in Guacamole BAR & GRILL!!</span>
     <span class="location">RUE ROMAIN TABARRE (NEXT TO THE AMERICAN EMBASSY)</span>
