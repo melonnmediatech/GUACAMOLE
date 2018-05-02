@@ -8,12 +8,14 @@
   
 padding-top: 5100px;   
     font-size: large;
-    background-color: black;
+     min-heigt:5500px;
+     background-size: 100%;
+    
    
        
-+    background-image: url('invitacion_github.jpg');
-     background-size: 100%;
-    min-heigt:5500px;
+    background-image: url('invitacion_github.jpg');
+     
+   
     
     
     
