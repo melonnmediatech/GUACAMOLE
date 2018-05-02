@@ -6,12 +6,12 @@
 
 <style> body{
    
-padding-top: 4200px;   
+padding-top: 4500px;   
     font-size: large;
     background-color: black;
    background-image: url('invitacion_fondo_github.jpg');
     background-size: 100%;
-    min-heigt:4500px;
+    min-heigt:4800px;
     
     
     
