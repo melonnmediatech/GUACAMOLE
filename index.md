@@ -4,13 +4,22 @@
 <!-- AddEvent script -->
 <script type="text/javascript" src="https://addevent.com/libs/atc/1.6.1/atc.min.js" async defer></script>
 
-<style> body{
+<style>  body{
+  
+padding-top: 5100px;   
+    font-size: large;
+    background-color: black;
+   
        
-    background-image: url('invitacion_github.jpg');
-    background-size: 100%;
-    min-heigt:5200px;
++    background-image: url('invitacion_github.jpg');
+     background-size: 100%;
+    min-heigt:5500px;
+    
+    
+    
+    
             
-}
+ }
 header {
   display: none;
 }
