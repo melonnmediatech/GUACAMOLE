@@ -6,14 +6,14 @@
 
 <style>  body{
   
-padding-top: 5100px;   
+padding-top: 0px;   
     font-size: large;
      min-heigt:5500px;
      background-size: 100%;
     
    
        
-    background-image: url('invitacion_github.jpg');
+   background-image: url('invitacion_github.jpg');
      
    
     
