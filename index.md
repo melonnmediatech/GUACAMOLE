@@ -9,7 +9,7 @@
 padding-top: 4200px;   
     font-size: large;
     background-color: red;
-   background-image: url('https://opensource.com/sites/default/files/styles/image-full-size/public/lead-images/github-universe.jpg');
+   background-image: url('invitacion_fondo_github.jpg');
     background-size: 100%;
     min-heigt:4500px;
     
