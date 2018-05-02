@@ -4,6 +4,27 @@
 <!-- AddEvent script -->
 <script type="text/javascript" src="https://addevent.com/libs/atc/1.6.1/atc.min.js" async defer></script>
 
+<style> body{
+   
+padding-top: 4200px;   
+    font-size: large;
+    background-color: red;
+   background-image: url('https://opensource.com/sites/default/files/styles/image-full-size/public/lead-images/github-universe.jpg');
+    background-size: 100%;
+    min-heigt:4500px;
+    
+    
+    
+}
+header {
+  display: none;
+}
+
+mark { 
+    background-color: black;
+    color: white;
+    
+}</style>
 </head>
 <body>
 
