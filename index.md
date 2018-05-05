@@ -23,7 +23,7 @@ header {
 }
 
 mark { 
-    background-color: 	#181818;
+    background-color: 	#000000;
     color: white;
     
 }
