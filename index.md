@@ -50,7 +50,7 @@ color:white;
     <span class="location">RUE ROMAIN TABARRE (NEXT TO THE AMERICAN EMBASSY)</span>
 </div>
 <mark><a href="https://api.whatsapp.com/send?phone=+50946686890&text=Hello, I contacted you through your website to R.S.V.P." class="social-icon whatsapp">WHATSAPP US THROUGH THIS LINK to R.S.V.P! </a></mark>
-<img src="invitacion_rusia_guacamole_menu.png" style="width:100%;">
+<img src="https://github.com/melonnmediatech/GUACAMOLE/blob/master/invitacion_rusia_guacamole_menu.png" style="width:100%;">
 
 <!-- Button code -->
 <div title="Add to Calendar" class="addeventatc" data-direct="google">
